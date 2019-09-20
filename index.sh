@@ -1,0 +1,1 @@
+salmon index -t Homo_sapiens.GRCh38.cdna.all.fa.gz -i human_index
